@@ -10,8 +10,7 @@ Clone Metadrive here: https://github.com/metadriverse/metadrive and run setup.py
 
 <img src="assets/output.png" width="400" height="200">
 
-[dqn.ipynb]("Deep Q-Learning/dqn.ipynb")
-
+### <a href="Deep Q-Learning/dqn.ipynb">Notebook 1: dqn.ipynb</a>
 1. Motivations behind Q Learning
 2. Q Tables and the Bellman Equation
 3. Deep Q-Learning with Metadrive
