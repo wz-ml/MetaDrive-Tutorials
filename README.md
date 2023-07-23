@@ -14,8 +14,10 @@ Clone Metadrive here: https://github.com/metadriverse/metadrive and run setup.py
 2. [Deep Q Network Explanation](./DQN/dqn.ipynb)
     * [Deep Q Network Exercise](./DQN/dqn_exercise.ipynb)
         * [Deep Q Network Solution](./DQN/dqn_solution.ipynb)
-    * [Double DQN Exercise](./DQN/)
-3. [PPO Explanation](./PPO/ppo.ipynb)
+3. [Double Deep Q Network Explanation](./DQN/double_dqn.ipynb)
+    * [Double DQN Exercise](./DQN/double_dqn_exercise.ipynb)
+        * [Double DQN Solution](./DQN/double_dqn_solution.ipynb)
+4. [PPO Explanation](./PPO/ppo.ipynb)
     * [PPO Exercise](./PPO/ppo_exercise.ipynb)
         * [PPO Solution](./PPO/ppo_solution.ipynb)
 
