@@ -54,7 +54,7 @@ The tutorials build off of each other, so we reccomend reading them in the order
 2. [Deep Q Network Explanation](./DQN/dqn.ipynb)
     * [Deep Q Network Exercise](./DQN/dqn_exercise.ipynb)
         * [Deep Q Network Solution](./DQN/dqn_solution.ipynb)
-3. [Double and Dueling DQN Explanation](./DQN/double_dueling_dqn.ipynb)
+3. [Double and Dueling DQN Explanation](./DQN/double_and_dueling_dqn.ipynb)
     * [Double and Dueling DQN Exercise](./DQN/double_dueling_dqn_exercise.ipynb)
         * [Double and Dueling DQN Solution](./DQN/double_dueling_dqn_solution.ipynb)
 4. [PPO Explanation](./PPO/ppo.ipynb)
