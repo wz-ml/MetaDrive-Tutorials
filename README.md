@@ -60,6 +60,6 @@ The tutorials build off of each other, so we reccomend reading them in the order
 4. [PPO Explanation](./PPO/ppo.ipynb)
     * [PPO Exercise](./PPO/ppo_exercise.ipynb)
         * [PPO Solution](./PPO/ppo_solution.ipynb)
-
-
-
+5. [Behavior Cloning Explanation](./BC/bc.ipynb)
+    * [BC Exercise](./BC/bc_exercise.ipynb)
+        * [BC Solution](./BC_solution.ipynb)
